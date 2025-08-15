@@ -1,4 +1,4 @@
-# Daniel Allen, MBA/MIS, RN — Founder @ QMTRY | Healthcare Data & EHR Integration Expert
+# Daniel Allen, MBA/MIS, RN — Founder @ QMTRY, LLC | Healthcare Data & EHR Integration Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/daniel-allen-mba/)
 [![Website](https://img.shields.io/badge/QMTRY.ai-Visit-brightgreen)](https://qmtry.ai)
