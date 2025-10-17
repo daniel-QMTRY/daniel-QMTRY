@@ -1,4 +1,4 @@
-# Daniel Allen, MBA/MIS, RN — Founder @ QMTRY, LLC | Healthcare Data & EHR Integration Expert
+# Daniel Allen, MBA/MIS, PMP — Lead Analyst / Compliance Auditor @ QMTRY, LLC | Healthcare Data & EHR Integration Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/daniel-allen-mba/)
 [![Website](https://img.shields.io/badge/QMTRY.ai-Visit-brightgreen)](https://qmtry.ai)
@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I’m **Daniel Allen**, a Registered Nurse with 20+ years of experience and the founder of **QMTRY**, a minority-owned, compliance-driven healthcare analytics firm. I specialize in building **audit-ready data pipelines**, automating quality workflows, and modernizing healthcare systems through EHR integrations and regulatory reporting.
+I’m **Daniel Allen**, a Registered Nurse with 20+ years of experience and the lead analyst and compliance auditor for **QMTRY**, a minority-owned, compliance-driven healthcare analytics firm. I specialize in building **audit-ready data pipelines**, automating quality workflows, and modernizing healthcare systems through EHR integrations and regulatory reporting.
 
 My mission? **Turn complex clinical and claims data into clear, actionable intelligence** — whether for payers, providers, or public programs.
 
